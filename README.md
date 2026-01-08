@@ -21,7 +21,7 @@ C • C++ • JavaScript • Python
 ### Frontend Development
 React • HTML5 • CSS3 • Tailwind CSS
 
-### ⚙️ Backend Development
+### Backend Development
 Node.js
 
 ### AI / ML
