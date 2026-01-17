@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anvi-sha675&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <h1 align="center">Hi, I'm Anvesha</h1>
 <h3 align="center">CSE Student | Google Cloud Study Jams 2025-26 | Continuous Learner</h3>
 
