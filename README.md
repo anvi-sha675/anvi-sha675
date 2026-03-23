@@ -104,7 +104,7 @@ I actively contribute to **open-source projects** and develop applications that 
 ## 🌍 Open Source Impact
 ![PRs](https://img.shields.io/badge/PRs-195-blue)
 ![Issues](https://img.shields.io/badge/Issues-194-red)
-![Repositories](https://img.shields.io/badge/Repos-10-green)
+![Repositories](https://img.shields.io/badge/Repos-8-green)
 
 ---
 
@@ -127,7 +127,7 @@ I actively contribute to **open-source projects** and develop applications that 
 ## 🌟 Personal Touch
 
 - 🤖 **AI Experiments**: Love exploring AI/ML models, and building smart apps.  
-- 💻 **Coding Challenges**: Active on LeetCode, GFG and HackerRank, solving problems to sharpen algorithmic thinking.
+- 💻 **Coding Challenges**: Active on LeetCode, solving problems to sharpen algorithmic thinking.
 - ✨ **Quote / Mission**: “Build technology that makes life simpler, smarter, and impactful.”
 
 ---
@@ -135,7 +135,7 @@ I actively contribute to **open-source projects** and develop applications that 
 ## Connect With Me
 
 - GitHub: https://github.com/anvi-sha675  
-- LinkedIn: https://www.linkedin.com/in/anvesha-24b09b378/
+- LinkedIn: https://www.linkedin.com/in/anvesha-224/
 
 ---
 
