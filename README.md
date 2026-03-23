@@ -73,6 +73,7 @@ I actively contribute to **open-source projects** and develop applications that 
 
 - [Image Label Generator]– Built using AWS Rekognition
 - [BOT BUZZ Live Chat]– Web-based chatbot application
+- [ORION OS]– Automated Operating System Navigator
 
 ---
 
@@ -80,7 +81,7 @@ I actively contribute to **open-source projects** and develop applications that 
 
 - Google Cloud Study Jams 2025-26 Certified Learner  
 - AWS Certified Cloud Practitioner 
-- Open Source contributions to AI/ML and web development projects
+- Secured Rank 13 in Open Source contributions at ECWoC'26 
 
 ---
 
