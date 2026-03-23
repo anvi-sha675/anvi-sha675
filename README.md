@@ -136,7 +136,7 @@ I actively contribute to **open-source projects** and develop applications that 
 ## Connect With Me
 
 - GitHub: https://github.com/anvi-sha675  
-- LinkedIn: https://www.linkedin.com/in/anvesha-224/
+- LinkedIn: https://www.linkedin.com/in/anvesha224/
 
 ---
 
