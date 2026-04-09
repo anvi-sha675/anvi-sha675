@@ -91,8 +91,11 @@ I actively contribute to **open-source projects** and develop applications that 
   <tr>
     <td align="center">
       <b>GitHub Stats</b><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=anvi-sha675&show_icons=true&theme=tokyonight" width="500" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anvi-sha675&show_icons=true&theme=tokyonight" />
     </td>
+    <p align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=anvi-sha675&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+    </p>
     <td align="center">
      <b>Open Source Contributions</b><br>
 <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22Python%22%2C%22React%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C65%2C60%2C40%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%22%233572A5%22%2C%22%2361DAFB%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22weight%22%3A%22bold%22%2C%22size%22%3A14%7D%2C%22formatter%22%3A%22%5B%25value%25%5D%22%7D%2C%22tooltip%22%3A%7B%22enabled%22%3Atrue%2C%22backgroundColor%22%3A%22%230d1117%22%2C%22titleColor%22%3A%22%23ffffff%22%2C%22bodyColor%22%3A%22%23ffffff%22%7D%7D%2C%22cutout%22%3A%2230%25%22%2C%22responsive%22%3Atrue%2C%22maintainAspectRatio%22%3Afalse%7D%7D&width=450&height=360" width="360" />
@@ -101,6 +104,11 @@ I actively contribute to **open-source projects** and develop applications that 
 </table>
 
 ---
+
+## 🔥 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anvi-sha675&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 
 ## 🌍 Open Source Impact
 ![PRs](https://img.shields.io/badge/PRs-195-blue)
