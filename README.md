@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Hi, I'm Anvesha</h1>
 <h3 align="center">CSE Student | Open Source Contributor | ECWoC'26 Rank 13 | Google Cloud Study Jams 2025-26 Certified | Continuous Learner</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=AI+%26+Full-Stack+Enthusiast;Machine+Learning+%7C+Web+Development+%7C+DSA;Building+Intelligent+and+Scalable+Applications;Creating+Impactful+Projects;Transforming+Ideas+into+Real-World+Solutions;Exploring+AI%2C+Automation+and+Innovation;Passionate+about+Problem+Solving+and+Technology;Always+Learning%2C+Building%2C+and+Growing" alt="Typing Animation" />
 
 ---
 
@@ -71,21 +72,57 @@ I actively contribute to **open-source projects** and develop applications that 
 
 ## 🔥 Featured Projects
 
-- [Image Label Generator]– Built using AWS Rekognition
-- [BOT BUZZ Live Chat]– Web-based chatbot application
-- [ORION OS]– Automated Operating System Navigator
+- 🤝 CollabSphere – Smart collaboration platform for project management, communication, and team productivity
+- 🛡️ CyberThreat Vision – AI-driven cyber threat detection, monitoring, and security intelligence system
+- 🚀 ORION OS – Intelligent operating system assistant for navigation, automation, and task optimization
+- 🏷️ Image Label Generator – Computer vision application powered by AWS Rekognition for automated image analysis and labeling
 
 ---
 
 ## 🏆 Achievements / Certifications
 
+- Secured Rank 13 in Open Source contributions at ECWoC'26 
 - Google Cloud Study Jams 2025-26 Certified Learner  
 - AWS Certified Cloud Practitioner 
-- Secured Rank 13 in Open Source contributions at ECWoC'26 
 
 ---
 
 ## 📊 GitHub Stats & Open Source Contributions
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anvi-sha675&theme=react" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anvi-sha675&theme=react" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anvi-sha675&theme=react" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anvi-sha675&theme=react&utcOffset=8" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://github-readmeapp.vercel.app/api?username=anvi-sha675&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=anvi-sha675&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anvi-sha675&theme=react" />
+</p>
 
 <table>
   <tr>
