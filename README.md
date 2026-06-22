@@ -89,9 +89,16 @@ I actively contribute to **open-source projects** and develop applications that 
 
 ### 📈 Problem Solving
 
-<p align="center">
-    <img src="https://leetcard.jacoblin.cool/Anve_sha?theme=dark&font=Fira%20Code&ext=activity" alt="Anvesha's LeetCode" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Anve_sha?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=Anve_sha&animated=true&theme=github-dark&border=no-border" alt="LeetCode Badges" />
+    </td>
+  </tr>
+</table>
 
 ---
 
