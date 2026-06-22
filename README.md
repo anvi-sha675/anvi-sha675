@@ -87,6 +87,14 @@ I actively contribute to **open-source projects** and develop applications that 
 
 ---
 
+### 📈 Problem Solving
+
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/Anve_sha?theme=dark&font=Fira%20Code&ext=activity" alt="Anvesha's LeetCode" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Open Source Contributions
 
 <table>
