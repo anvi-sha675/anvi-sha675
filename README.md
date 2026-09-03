@@ -31,42 +31,31 @@ I actively contribute to **open-source projects** and develop applications that 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- ![C](https://img.shields.io/badge/C-Programming-blue) 
-- ![C++](https://img.shields.io/badge/C++-Programming-pink) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
-- ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![C](https://img.shields.io/badge/C-Programming-blue) ![C++](https://img.shields.io/badge/C%2B%2B-Programming-pink) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.11-blue) ![SQL](https://img.shields.io/badge/SQL-Database-blue)
 
 ### 🎨 Frontend Development
-- ![React](https://img.shields.io/badge/React-18-blueviolet) 
-- ![HTML5](https://img.shields.io/badge/HTML5-markup-orange)  
-- ![CSS3](https://img.shields.io/badge/CSS3-styling-blue)  
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-styling-teal)  
+![React](https://img.shields.io/badge/React-19-blueviolet) ![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF) ![HTML5](https://img.shields.io/badge/HTML5-markup-orange) ![CSS3](https://img.shields.io/badge/CSS3-styling-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-styling-teal) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animations-0055FF)
 
 ### ⚙️ Backend Development
-- ![Node.js](https://img.shields.io/badge/Node.js-16-green)  
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-green) ![Express.js](https://img.shields.io/badge/Express.js-Backend-black) ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688) ![Flask](https://img.shields.io/badge/Flask-Microservice-black) ![REST API](https://img.shields.io/badge/REST-API-02569B) ![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4)
 
 ### 🤖 AI / Machine Learning
-- ![NumPy](https://img.shields.io/badge/NumPy-Data-yellowgreen)  
-- ![Pandas](https://img.shields.io/badge/Pandas-Data-blue)  
-- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)  
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)  
+![NumPy](https://img.shields.io/badge/NumPy-Data-yellowgreen) ![Pandas](https://img.shields.io/badge/Pandas-Data-blue) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red) ![Gemini](https://img.shields.io/badge/Gemini-GenAI-8E75B2) ![Groq](https://img.shields.io/badge/Groq-LLM_Inference-F55036) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-AI-FFD21E) ![OpenAI](https://img.shields.io/badge/OpenAI-LLMs-412991)
 
 ### 🗄️ Database
-- ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)  
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1) ![Neon](https://img.shields.io/badge/Neon-PostgreSQL-00E599)
+
+### 🔐 Authentication & Real-Time
+![JWT](https://img.shields.io/badge/JWT-Authentication-black) ![Stream SDK](https://img.shields.io/badge/Stream_SDK-Realtime-005FFF)
 
 ### ☁️ Cloud Platforms
-- ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)  
-- ![GCP](https://img.shields.io/badge/GCP-Cloud-blue)  
-- ![Azure](https://img.shields.io/badge/Azure-Cloud-lightblue)  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange) ![GCP](https://img.shields.io/badge/GCP-Cloud-blue) ![Azure](https://img.shields.io/badge/Azure-Cloud-lightblue)
+
+### 📊 Visualization & Analytics
+![Chart.js](https://img.shields.io/badge/Chart.js-Visualization-FF6384)
 
 ### 🧰 Tools & Software
-- ![Git](https://img.shields.io/badge/Git-VersionControl-red)  
-- ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black)  
-- ![Figma](https://img.shields.io/badge/Figma-Design-pink)  
-- ![VS Code](https://img.shields.io/badge/VSCode-IDE-blue)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDE-red) 
-- ![Google Colab](https://img.shields.io/badge/Colab-Python-orange)  
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue)  
+![Git](https://img.shields.io/badge/Git-VersionControl-red) ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black) ![Figma](https://img.shields.io/badge/Figma-Design-pink) ![VS Code](https://img.shields.io/badge/VSCode-IDE-blue) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDE-red) ![Google Colab](https://img.shields.io/badge/Colab-Python-orange) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue) ![Postman](https://img.shields.io/badge/Postman-API_Testing-orange)
 
 ---
 
