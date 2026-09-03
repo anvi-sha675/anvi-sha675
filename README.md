@@ -58,13 +58,155 @@ I actively contribute to **open-source projects** and develop applications that 
 ![Git](https://img.shields.io/badge/Git-VersionControl-red) ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black) ![Figma](https://img.shields.io/badge/Figma-Design-pink) ![VS Code](https://img.shields.io/badge/VSCode-IDE-blue) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDE-red) ![Google Colab](https://img.shields.io/badge/Colab-Python-orange) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue) ![Postman](https://img.shields.io/badge/Postman-API_Testing-orange)
 
 ---
-
 ## 🔥 Featured Projects
 
-- 🤝 CollabSphere – Smart collaboration platform for project management, communication, and team productivity
-- 🛡️ CyberThreat Vision – AI-driven cyber threat detection, monitoring, and security intelligence system
-- 🚀 ORION OS – Intelligent operating system assistant for navigation, automation, and task optimization
-- 🏷️ Image Label Generator – Computer vision application powered by AWS Rekognition for automated image analysis and labeling
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 MissionGuard AI
+**Intelligent Space Mission Monitoring & Decision Support**
+
+AI-powered mission intelligence platform for spacecraft anomaly detection, predictive monitoring, risk assessment, evidence-based reasoning, and mission planning.
+
+**Tech Stack**  
+`Python` `FastAPI` `React` `Vite` `Tailwind CSS` `Scikit-learn` `AI/LLM`
+
+**Key Features**  
+`Anomaly Detection` `Forecasting` `Risk Engine` `Decision Support` `AI Reasoning`
+
+</td>
+
+<td width="50%">
+
+### 🧠 CareerNexus
+**Smart Talent & Career Ecosystem**
+
+Full-stack career intelligence platform connecting candidates, skills, opportunities, and AI-powered career insights.
+
+**Tech Stack**  
+`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `REST API` `AI`
+
+**Key Features**  
+`Talent Discovery` `Skill Matching` `Career Intelligence` `Opportunity Management`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤝 CollabSphere
+**Real-Time Collaboration Platform**
+
+Full-stack collaboration platform for project management, real-time communication, video meetings, and remote teamwork.
+
+**Tech Stack**  
+`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Stream SDK` `WebRTC` `JWT`
+
+**Key Features**  
+`Project Management` `Real-Time Chat` `Video Meetings` `Team Collaboration`
+
+</td>
+
+<td width="50%">
+
+### 🌾 AgriAI
+**AI-Powered Agricultural Advisory Platform**
+
+Intelligent platform delivering AI-driven agricultural insights and personalized recommendations for data-informed farming decisions.
+
+**Tech Stack**  
+`React` `Node.js` `Express.js` `MongoDB` `Gemini API` `AI` `REST API`
+
+**Key Features**  
+`AI Advisory` `Smart Recommendations` `Data Insights` `Personalized Assistance`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 EduBridge AI
+**Multimodal & Multilingual Learning Assistant**
+
+AI learning assistant supporting text, voice, and image-based interactions across 11 Indian languages.
+
+**Tech Stack**  
+`Python` `Streamlit` `Gemini` `Groq` `Hugging Face` `NLP` `Computer Vision`
+
+**Key Features**  
+`Multimodal AI` `Voice Input` `Image Understanding` `11 Languages`
+
+</td>
+
+<td width="50%">
+
+### 🛡️ CyberThreat Vision
+**AI-Powered Cybersecurity Intelligence**
+
+Intelligent cybersecurity platform for threat detection, monitoring, classification, risk analysis, and security intelligence.
+
+**Tech Stack**  
+`React` `Vite` `Tailwind CSS` `Python` `Flask` `MySQL` `Machine Learning`
+
+**Key Features**  
+`Threat Detection` `Risk Analysis` `ML Classification` `Security Monitoring`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 ORION OS
+**Intelligent AI System Assistant**
+
+AI-powered system assistant designed for intelligent navigation, task automation, contextual assistance, and productivity optimization.
+
+**Tech Stack**  
+`Python` `AI` `LLM` `Automation` `NLP`
+
+**Key Features**  
+`AI Assistance` `Task Automation` `Navigation` `Contextual Intelligence`
+
+</td>
+
+<td width="50%">
+
+### 📊 FinTrack
+**Financial Tracking & Analytics Platform**
+
+Smart financial tracking application for monitoring financial activity, visualizing trends, and generating actionable insights.
+
+**Tech Stack**  
+`React` `Vite` `Tailwind CSS` `JavaScript` `Chart.js`
+
+**Key Features**  
+`Financial Tracking` `Data Visualization` `Analytics` `Interactive Dashboard`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏷️ GenLabel.AI
+**Automated Image Analysis & Labeling**
+
+Cloud-based computer vision application for automated image analysis and intelligent labeling using AWS AI services.
+
+**Tech Stack**  
+`Python` `AWS` `Rekognition` `S3` `EC2` `Computer Vision`
+
+**Key Features**  
+`Image Recognition` `Object Detection` `Auto Labeling` `Cloud Processing`
+
+</td>
+</tr>
+</table>
+
 
 ---
 
