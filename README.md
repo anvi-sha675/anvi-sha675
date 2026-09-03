@@ -14,9 +14,13 @@ CSE Student | AI & Full-Stack Developer | Open Source Contributor | ECWoC'26 Ran
 
 ## 👩‍💻 About Me
 
-I am a **Computer Science student** passionate about **Artificial Intelligence, Machine Learning, and Open Source Development**. I enjoy building intelligent systems that leverage **emerging technologies** to create **real-world solutions**.
+I am a **Computer Science undergraduate** with a **9.59/10 CGPA**, passionate about **Software Development, Artificial Intelligence, Machine Learning, and Open Source**. I enjoy transforming ideas into **intelligent, scalable, and production-ready applications** using modern technologies.
 
-I actively contribute to **open-source projects** and develop applications that combine **AI, data-driven insights, and modern web technologies**. I thrive in **collaborative environments**, continuously learning and tackling **complex problems** to deliver impactful technology.
+I have hands-on experience in **full-stack development, REST APIs, databases, cloud platforms, AI/ML, Generative AI, and real-time systems**. I actively contribute to **open-source projects** and have solved **500+ DSA problems**, strengthening my problem-solving and programming fundamentals.
+
+I enjoy building **real-world projects** that combine **AI, data-driven insights, automation, and modern web technologies**. I thrive in **collaborative environments**, continuously explore emerging technologies, and aim to build software that is **impactful, reliable, and user-focused**.
+
+I am particularly interested in **Software Engineering, AI/ML, Generative AI, Cloud Computing, and scalable application development**, while continuously learning and transforming **ideas into practical, user-focused solutions**.
 
 ---
 
