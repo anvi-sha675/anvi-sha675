@@ -1,9 +1,14 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=anvi-sha675&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-<h1 align="center">Hi, I'm Anvesha</h1>
-<h3 align="center">CSE Student | Open Source Contributor | ECWoC'26 Rank 13 | Google Cloud Study Jams 2025-26 Certified | Continuous Learner</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=AI+%26+Full-Stack+Enthusiast;Machine+Learning+%7C+Web+Development+%7C+DSA;Building+Intelligent+and+Scalable+Applications;Creating+Impactful+Projects;Transforming+Ideas+into+Real-World+Solutions;Exploring+AI%2C+Automation+and+Innovation;Passionate+about+Problem+Solving+and+Technology;Always+Learning%2C+Building%2C+and+Growing" alt="Typing Animation" />
+
+<h1 align="center">Hi, I'm Anvesha 👋</h1>
+
+<h3 align="center">
+CSE Student | AI & Full-Stack Developer | Open Source Contributor | ECWoC'26 Rank 13 | Google Cloud Study Jams 2025-26 Certified | 9.59/10 CGPA | Continuous Learner
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=AI+%26+Full-Stack+Developer;Machine+Learning+%7C+Generative+AI+%7C+Web+Development;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Building+Intelligent+and+Scalable+Applications;Designing+Production-Ready+Full-Stack+Solutions;Creating+Impactful+Projects+with+AI+%26+Cloud;Exploring+LLMs%2C+Automation+and+Cloud+Technologies;500%2B+DSA+Problems+Solved;Transforming+Ideas+into+Real-World+Solutions;Always+Learning%2C+Building%2C+and+Growing" alt="Typing Animation" />
 
 ---
 
