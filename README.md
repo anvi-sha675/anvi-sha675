@@ -210,11 +210,12 @@ Cloud-based computer vision application for automated image analysis and intelli
 
 ---
 
-## 🏆 Achievements / Certifications
+## 🏆 Achievements & Certifications
 
-- Secured Rank 13 in Open Source contributions at ECWoC'26 
-- Google Cloud Study Jams 2025-26 Certified Learner  
-- AWS Certified Cloud Practitioner 
+- 🥇 **Ranked #13 — ECWoC'26** — Recognized among top contributors for open-source contributions
+- ☁️ **Google Cloud Study Jams 2025–26** — Certified Learner
+- ☁️ **AWS Certified Cloud Practitioner** — AWS foundational cloud certification
+- 🤖 **Oracle Cloud Infrastructure AI Foundations** — Certified
 
 ---
 
