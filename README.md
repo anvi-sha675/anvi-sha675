@@ -76,28 +76,60 @@ I am particularly interested in **Software Engineering, AI/ML, Generative AI, Cl
 ### 🚀 MissionGuard AI
 **Intelligent Space Mission Monitoring & Decision Support**
 
-AI-powered mission intelligence platform for spacecraft anomaly detection, predictive monitoring, risk assessment, evidence-based reasoning, and mission planning.
+AI-powered mission intelligence platform for spacecraft monitoring, combining machine-learning-based anomaly detection, predictive forecasting, risk assessment, evidence-based reasoning, and mission planning.
 
 **Tech Stack**  
 `Python` `FastAPI` `React` `Vite` `Tailwind CSS` `Scikit-learn` `AI/LLM`
 
 **Key Features**  
-`Anomaly Detection` `Forecasting` `Risk Engine` `Decision Support` `AI Reasoning`
+`Anomaly Detection` `Predictive Forecasting` `Risk Engine` `Decision Support` `Evidence Builder` `AI Reasoning` `Mission Planning`
 
 </td>
 
 <td width="50%">
 
-### 🧠 CareerNexus
-**Smart Talent & Career Ecosystem**
+### 💳 RecoverAI
+**Autonomous Revenue Recovery Agent**
 
-Full-stack career intelligence platform connecting candidates, skills, opportunities, and AI-powered career insights.
+AI-powered, policy-controlled revenue recovery control plane for failed payments, combining risk prediction, root-cause diagnosis, recovery economics, deterministic policy controls, human approval, provider execution, payment verification, stopping rules, and auditability.
+
+**Tech Stack**  
+`React` `Vite` `Tailwind CSS` `Framer Motion` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI` `Scikit-learn` `Chart.js` `Razorpay`
+
+**Key Features**  
+`Risk Prediction` `Root-Cause Diagnosis` `Recovery Economics` `Policy Engine` `Human-in-the-Loop` `Razorpay Integration` `Payment Verification` `Idempotency` `RBAC` `Audit Trail` `Stopping Rules`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 CareerNexus
+**Smart Talent & Career Ecosystem Platform**
+
+Full-stack career intelligence platform connecting candidates, skills, opportunities, and AI-powered career insights to support smarter talent discovery and career decisions.
 
 **Tech Stack**  
 `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `REST API` `AI`
 
 **Key Features**  
-`Talent Discovery` `Skill Matching` `Career Intelligence` `Opportunity Management`
+`Talent Discovery` `Skill Matching` `Career Intelligence` `Opportunity Management` `AI-Powered Insights`
+
+</td>
+
+<td width="50%">
+
+### ✨ Gemini Reflect
+**Secure AI-Powered Personal Journal**
+
+Secure AI-powered journaling platform built for the **Build a Secure Personal Gemini Journal Ideathon**, combining private journaling with multi-turn Gemini conversations, personalized insights, and AI-powered growth tracking.
+
+**Tech Stack**  
+`React` `Vite` `Tailwind CSS` `Framer Motion` `Node.js` `Express.js` `Firebase Auth` `Firestore` `Gemini API` `Secret Manager` `Cloud Run`
+
+**Key Features**  
+`Multi-Turn Gemini Conversations` `AI Personal Insights` `Growth Timeline` `Session Summaries` `Google Authentication` `Searchable Journals` `Data Export` `Secure Data Deletion`
 
 </td>
 </tr>
@@ -108,13 +140,13 @@ Full-stack career intelligence platform connecting candidates, skills, opportuni
 ### 🤝 CollabSphere
 **Real-Time Collaboration Platform**
 
-Full-stack collaboration platform for project management, real-time communication, video meetings, and remote teamwork.
+Full-stack collaboration platform for project management, real-time communication, video meetings, and remote teamwork with integrated real-time and video communication capabilities.
 
 **Tech Stack**  
 `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Stream SDK` `WebRTC` `JWT`
 
 **Key Features**  
-`Project Management` `Real-Time Chat` `Video Meetings` `Team Collaboration`
+`Project Management` `Real-Time Chat` `Video Meetings` `Team Collaboration` `Real-Time Communication`
 
 </td>
 
@@ -123,13 +155,13 @@ Full-stack collaboration platform for project management, real-time communicatio
 ### 🌾 AgriAI
 **AI-Powered Agricultural Advisory Platform**
 
-Intelligent platform delivering AI-driven agricultural insights and personalized recommendations for data-informed farming decisions.
+AI-driven agricultural advisory system delivering personalized, data-informed insights and recommendations by combining modern full-stack technologies with Gemini-powered intelligence.
 
 **Tech Stack**  
-`React` `Node.js` `Express.js` `MongoDB` `Gemini API` `AI` `REST API`
+`React` `Node.js` `Express.js` `MongoDB` `Gemini API` `REST API` `AI`
 
 **Key Features**  
-`AI Advisory` `Smart Recommendations` `Data Insights` `Personalized Assistance`
+`AI Advisory` `Smart Recommendations` `Data-Driven Insights` `Personalized Assistance`
 
 </td>
 </tr>
@@ -140,13 +172,13 @@ Intelligent platform delivering AI-driven agricultural insights and personalized
 ### 🎓 EduBridge AI
 **Multimodal & Multilingual Learning Assistant**
 
-AI learning assistant supporting text, voice, and image-based interactions across 11 Indian languages.
+AI-powered learning assistant supporting text, voice, and image-based interactions across **11 Indian languages**, combining multiple AI technologies to create an accessible and interactive learning experience.
 
 **Tech Stack**  
 `Python` `Streamlit` `Gemini` `Groq` `Hugging Face` `NLP` `Computer Vision`
 
 **Key Features**  
-`Multimodal AI` `Voice Input` `Image Understanding` `11 Languages`
+`Multimodal AI` `Text Interaction` `Voice Input` `Image Understanding` `Multilingual Learning` `11 Indian Languages`
 
 </td>
 
@@ -155,13 +187,13 @@ AI learning assistant supporting text, voice, and image-based interactions acros
 ### 🛡️ CyberThreat Vision
 **AI-Powered Cybersecurity Intelligence**
 
-Intelligent cybersecurity platform for threat detection, monitoring, classification, risk analysis, and security intelligence.
+Machine-learning-powered cybersecurity platform for threat detection, classification, monitoring, and risk analysis, featuring a dedicated Python Flask ML microservice.
 
 **Tech Stack**  
 `React` `Vite` `Tailwind CSS` `Python` `Flask` `MySQL` `Machine Learning`
 
 **Key Features**  
-`Threat Detection` `Risk Analysis` `ML Classification` `Security Monitoring`
+`Threat Detection` `ML Classification` `Risk Analysis` `Security Monitoring` `Cybersecurity Intelligence`
 
 </td>
 </tr>
@@ -178,7 +210,7 @@ AI-powered system assistant designed for intelligent navigation, task automation
 `Python` `AI` `LLM` `Automation` `NLP`
 
 **Key Features**  
-`AI Assistance` `Task Automation` `Navigation` `Contextual Intelligence`
+`AI Assistance` `Task Automation` `Intelligent Navigation` `Contextual Intelligence` `Productivity Optimization`
 
 </td>
 
@@ -187,13 +219,13 @@ AI-powered system assistant designed for intelligent navigation, task automation
 ### 📊 FinTrack
 **Financial Tracking & Analytics Platform**
 
-Smart financial tracking application for monitoring financial activity, visualizing trends, and generating actionable insights.
+Smart financial tracking application for monitoring financial activity, visualizing trends, and generating actionable insights through an interactive dashboard.
 
 **Tech Stack**  
 `React` `Vite` `Tailwind CSS` `JavaScript` `Chart.js`
 
 **Key Features**  
-`Financial Tracking` `Data Visualization` `Analytics` `Interactive Dashboard`
+`Financial Tracking` `Data Visualization` `Financial Analytics` `Interactive Dashboard` `Trend Analysis`
 
 </td>
 </tr>
@@ -210,7 +242,11 @@ Cloud-based computer vision application for automated image analysis and intelli
 `Python` `AWS` `Rekognition` `S3` `EC2` `Computer Vision`
 
 **Key Features**  
-`Image Recognition` `Object Detection` `Auto Labeling` `Cloud Processing`
+`Image Recognition` `Object Detection` `Automated Labeling` `Cloud Processing` `Computer Vision`
+
+</td>
+
+<td width="50%">
 
 </td>
 </tr>
