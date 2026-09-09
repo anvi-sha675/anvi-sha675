@@ -282,67 +282,84 @@ Cloud-based computer vision application for automated image analysis and intelli
 ## 📊 GitHub Stats & Open Source Contributions
 
 <table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anvi-sha675&theme=react" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anvi-sha675&theme=react" />
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anvi-sha675&theme=react" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anvi-sha675&theme=react&utcOffset=8" />
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<img src="https://github-readmeapp.vercel.app/api?username=anvi-sha675&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=anvi-sha675&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anvi-sha675&theme=react" />
-</p>
-
-<table>
   <tr>
-    <td align="center">
-      <b>GitHub Stats</b><br>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anvi-sha675&show_icons=true&theme=tokyonight" />
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anvi-sha675&theme=react"
+        alt="Repositories Per Language"
+      />
     </td>
-    <p align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=anvi-sha675&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-    </p>
-    <td align="center">
-     <b>Open Source Contributions</b><br>
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22Python%22%2C%22React%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C65%2C60%2C40%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%22%233572A5%22%2C%22%2361DAFB%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22weight%22%3A%22bold%22%2C%22size%22%3A14%7D%2C%22formatter%22%3A%22%5B%25value%25%5D%22%7D%2C%22tooltip%22%3A%7B%22enabled%22%3Atrue%2C%22backgroundColor%22%3A%22%230d1117%22%2C%22titleColor%22%3A%22%23ffffff%22%2C%22bodyColor%22%3A%22%23ffffff%22%7D%7D%2C%22cutout%22%3A%2230%25%22%2C%22responsive%22%3Atrue%2C%22maintainAspectRatio%22%3Afalse%7D%7D&width=450&height=360" width="360" />
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anvi-sha675&theme=react"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anvi-sha675&theme=react"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=anvi-sha675&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+      />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## 🔥 Top Languages
+### 📈 GitHub Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anvi-sha675&layout=compact&theme=tokyonight&langs_count=8" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anvi-sha675&theme=react&utcOffset=8"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
-## 🌍 Open Source Impact
-![PRs](https://img.shields.io/badge/PRs-195-blue)
-![Issues](https://img.shields.io/badge/Issues-194-red)
-![Repositories](https://img.shields.io/badge/Repos-8-green)
+<br>
+
+### 🌟 Open Source Impact
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/Pull%20Requests-195-blue?style=for-the-badge"
+  alt="Pull Requests"
+/>
+
+<img
+  src="https://img.shields.io/badge/Issues-194-red?style=for-the-badge"
+  alt="Issues"
+/>
+
+<img
+  src="https://img.shields.io/badge/Repositories-8-green?style=for-the-badge"
+  alt="Repositories"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/ECWoC'26-Rank%20%2313-orange?style=for-the-badge"
+  alt="ECWoC 2026 Rank 13"
+/>
+
+<img
+  src="https://img.shields.io/badge/GSSoC-2026-purple?style=for-the-badge"
+  alt="GSSoC 2026"
+/>
+
+</p>
 
 ---
 
